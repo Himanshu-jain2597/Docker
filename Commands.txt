@@ -1,0 +1,17 @@
+docker run nginx - to run nginx image (pull image if not exist)
+
+docker ps - list all running container 
+
+docker ps -a :- list all container(running and stopped container)
+
+
+docker stop silly(image name):- to stop running image or container 
+
+
+
+docker images( all the images which are present)
+
+docker rmi nginx (to remove nginx image)
+
+
+
