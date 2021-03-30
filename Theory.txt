@@ -1,0 +1,16 @@
+Virtualisation :- It is technique of spiliting a physical resource into as many virtual resouce as many we want in memory.  
+
+
+Hypervisor:-  It is piece of software that create and run virtual machine 
+
+
+Dev       + ops            = devops
+(Dvelop)    (operation)
+
+
+
+Docker is a tool which create virtual machine
+
+virtual machine:- it has its own operating system. 
+
+Container is like a virtual machine container does not have it own operating system.
