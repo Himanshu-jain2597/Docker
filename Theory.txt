@@ -13,4 +13,4 @@ Docker is a tool which create virtual machine
 
 virtual machine:- it has its own operating system. 
 
-Container is like a virtual machine container does not have it own operating system.
+Container is like a virtual machine container does not have it own operating system. running stage of image is called container
