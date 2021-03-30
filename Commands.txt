@@ -15,3 +15,9 @@ docker rmi nginx (to remove nginx image)
 
 
 
+service docker start - to start a docker
+
+
+service docker stop - to stop a docker
+
+docker start himanshu(image name) - to start image which has name as himanshu 
