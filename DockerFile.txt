@@ -1,0 +1,26 @@
+
+How to Create My Own Image:- 
+
+
+For Example:- 
+
+FROM ubuntu
+
+RUN api-get update
+RUN api-get install python
+
+
+RUN pip install flask
+RUN pip install flsk-myql
+
+COPY ./opt/souce-code
+
+
+ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run 
+
+
+To Build image from this file
+
+docker build DockerFile -t himanshu/my-custom-app
+
+docker push himanshu/my-custom-app // to push the image into docker hub
