@@ -21,3 +21,9 @@ service docker start - to start a docker
 service docker stop - to stop a docker
 
 docker start himanshu(image name) - to start image which has name as himanshu 
+
+
+To check diff of the image:- docker diff bhupidocker
+
+To Create Image of the container:- docker commit new container updateImage
+
